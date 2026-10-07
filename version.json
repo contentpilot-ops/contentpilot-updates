@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.0",
+    "files":  [
+                  {
+                      "name":  "content_config.json",
+                      "url":  "https://raw.githubusercontent.com/contentpilot-ops/contentpilot-updates/main/content_config.json"
+                  }
+              ]
+}
